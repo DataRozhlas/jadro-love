@@ -1,5 +1,5 @@
-title: "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze"
-perex: "Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat."
+title: "Vláda má na jaře rozhodnout o novém reaktoru. Po německém odklonu od jádra je stavba dalších bloků nesmysl, říká expert"
+perex: "Česko v nejbližších letech zavře většinu uhelných elektráren a má je nahradit jádrem. Jde proti evropskému proudu – Německo a Francie reaktory zavírají, ty rozestavěné se 2× až 3× prodraží a stejně se protáhne i stavba. Nové Dukovany by vstoupily na trh, kde už nebudou konkurenceschopné."
 published: "21. dubna 2018"
 # autoři se zadávají až v redakčním systému
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
