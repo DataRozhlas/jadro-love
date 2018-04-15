@@ -4,8 +4,8 @@ published: "21. dubna 2018"
 # autoři se zadávají až v redakčním systému
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
-styles: []
-libraries: [] #jquery, jquery-csv, d3, highcharts, datatables
+styles: ['https://unpkg.com/leaflet@1.3.0/dist/leaflet.css']
+libraries: [d3, 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.js'] #jquery, jquery-csv, d3, highcharts, datatables
 options: [noheader] #wide, noheader (, nopic)
 ---
 <left>
@@ -22,7 +22,17 @@ Naopak v noci se nejvíc lidí se „namačká“ ve Vršovicích, jde o 430 oso
 
 Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních operátorů zpracoval pražský [Institut plánování a rozvoje](http://www.iprpraha.cz/).
 
-<wide>_Pokud vás zajímá, kolik lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte posuvníkem nahoře._</wide>
+<wide>
+	<div id="sel">
+		<select id="selector">
+			<option value="1955,1986">Období 1955 - 1986</option>
+			<option value="1987,2000">Období 1987 - 2000</option>
+			<option value="2001,2200">Období 2000 a později</option>
+		</select>
+	</div>
+	<div id="map"></div>
+	<div id="ttip">Kliknutím vyberte elektrárnu.</div>
+</wide>
 
 
 ## Data na prodej
