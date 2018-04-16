@@ -52,9 +52,7 @@ Dnes prožívá atomovou horečku, srovnatelnou s šedesátými léty na Západ�
 
 Do poloviny osmdesátých let se celosvětový výkon jaderných elektráren každoročně zvedl přibližně o desetinu. Po havárii Černobylu se na dvě desetiletí růst jaderné kapacity téměř zastavil.
 
-Černobyl je nicméně jen jednou z příčin. Na Západě známější a pro atomový průmysl podstatnější byla vážná havárie americké elektrárny Three Mile Island z roku 1979. Po ní se zpřísnily bezpečnostní regulace, což nastartovalo trend, který trvá dodnes: vysoké investiční náklady a průtahy stavby.
-
-Zkušenosti ze sedmdesátých let, kdy se do provozu dostaly první velké jaderné elektrárny, navíc ukázaly, že se ekonomicky příliš nevyplatí. Vlivem konstrukčních a designových chyb docházelo k častým odstávkám. Generační obměna u jaderných technologií trvá přibližně dvacet let, takže se další generace měla stavět v devadesátých letech. Po zkušenostech s tou předchozí ale většina zemí od stavby upustila.
+Černobyl je nicméně jen jednou z příčin. Na Západě známější a pro atomový průmysl podstatnější byla vážná havárie americké elektrárny Three Mile Island z roku 1979. Po ní se zpřísnily bezpečnostní regulace, což nastartovalo trend, který trvá dodnes: vyšší investiční náklady a průtahy stavby.
 
 Mimochodem, jediné dvě elektrárny ve východním bloku, které se začaly stavět po Černobylu, jsou český Temelín a slovenské Mochovce. Konstrukce Temelína začala v roce 1987; první blok začal dodávat elektřinu v roce 2000, druhý o dva roky později.
 
@@ -66,9 +64,9 @@ _Zdroj: [CarbonBrief](https://www.carbonbrief.org/mapped-the-worlds-nuclear-powe
 
 Téma bezpečnosti jaderné energetiky se vrátilo v roce 2011 po katastrofě v japonské Fukušimě. Tentokrát ovšem havárie neznamenala jen omezení výstavby, vedla k předčasnému odstavení řady reaktorů.
 
-Ve stejném roce spustili Němci _[energiewende](http://oenergetice.cz/elektrina/energiewende-a-jeji-cile/)_, energetický obrat. Rozhodli, že do roku 2022 budou odstaveny všechny reaktory, stornovali plány na ty budoucí a přeorientovali se na obnovitelné zdroje. Ty mají do roku 2050 vyrábět osmdesát procent německé elektřiny.
+Ve stejném roce spustili Němci _[Energiewende](http://oenergetice.cz/elektrina/Energiewende-a-jeji-cile/)_, energetický obrat. Rozhodli, že do roku 2022 budou odstaveny všechny reaktory, stornovali plány na ty budoucí a přeorientovali se na obnovitelné zdroje. Ty mají do roku 2050 vyrábět osmdesát procent německé elektřiny.
 
-Fukušima Němcům posloužila jako startovní výstřel pro změny, které připravovali od devadesátých let. Klíčovou roli hrála dohoda vlády a provozovatelů atomových elektráren o jejich postupném konci už z roku 2002, známá jako _atomkonsens_. Fukušimská havárie nicméně přidala ambicióznější cíle, včetně rychlého odstavení jádra.
+Fukušima Němcům posloužila jako startovní výstřel pro změny, které připravovali od devadesátých let. Klíčovou roli hrála dohoda vlády a provozovatelů atomových elektráren o jejich postupném konci už z roku 2002, známá jako _Atomkonsens_. Fukušimská havárie nicméně přidala ambicióznější cíle, včetně rychlého odstavení jádra.
 
 Podle odpůrce jádra Mycle Schneidera se orientace na obnovitelné zdroje vyplatí už teď. „V USA, kde jsou k dispozici nejlepší data, stojí výroba z jaderných reaktorů v průměru 35 dolarů za megawatthodinu,“ uvedl v rozhovoru pro týdeník Respekt. „To je jen provoz, tedy náklady na výrobu a údržbu již hotového a zaplaceného reaktoru. U nových bloků by cena byla samozřejmě mnohem vyšší, aby se zaplatila stavba. Kvůli tomu se také u dvou ze čtyř nově chystaných amerických reaktorů stavba zastavila – náklady se vymkly kontrole a dodavatel, firma Westinghouse, vyhlásil bankrot.“
 
@@ -88,7 +86,7 @@ Podobné rozhodnutí jako Německo čeká řadu dalších zemí. Především ty
 
 Celosvětově největší a také nejstarší jaderný park mají Spojené státy. Francie zase z jádra donedávna získávala tři čtvrtiny vyrobené elektřiny. Jenže právě Francie v minulých letech odstavila velkou část své atomové kapacity a s výjimkou problematického Flamanville nestaví nové.
 
-„Ve srovnání s tím německým je francouzský jaderný průmysl více podporován veřejností a žije v mnohem větší symbióze se státními orgány. Německou cestu tak Francouzi zvolí pravděpodobně až v okamžiku, kdy to bude finančně výhodné.“
+„Ve srovnání s tím německým je francouzský jaderný průmysl více podporován veřejností a žije v mnohem větší symbióze se státními orgány. Německou cestu tak Francouzi zvolí pravděpodobně až v okamžiku, kdy to bude finančně nebo politicky výhodné,“ upozorňuje Jan Osička.
 
 Zmíněná Areva po havárii ve Fukušimě přerušila práce na rozestavěných reaktorech, dodnes se jí nepodařilo žádný z nich zprovoznit. Následné finanční problémy firmu přivedly téměř ke krachu, zachránila ji francouzská vláda integrací s dalším energetickým gigantem Électricité de France. Další konstruktér atomových zařízení, americký Westinghouse, takové štěstí neměl: při stavbě šesti nových amerických reaktorů se vyčerpal a zkrachoval.
 
@@ -98,11 +96,11 @@ Zmíněná Areva po havárii ve Fukušimě přerušila práce na rozestavěných
 
 ## Česko: kam po uhlí?
 
-Podobné rozhodnutí čeká také Česko. Nejprve po roce 2022 doslouží většina uhelných elektráren.
+Podobné rozhodnutí čeká také Česko. Nejprve bude muset zavřít část uhelných elektráren, které nesplňují ekologické cíle Evropské unie.
 
-„Zavřené uhelné elektrárny nám jádro nahradit nepomůže, na to je to příliš brzy,“ říká Jan Osička z Mezinárodního politologického ústavu Masarykovy univerzity. „V tomhle období ale bude kapacita elektráren ve střední Evropě stále dostatečná. Propojení přenosové soustavy a propojený trh znamená, že můžeme krátkodobě dovézt elektřinu z okolních zemí.“
+„Zavřené uhelné elektrárny nám jádro nahradit nepomůže, na to přijde příliš pozdě,“ říká Jan Osička z Mezinárodního politologického ústavu Masarykovy univerzity. „V tomhle období pravděpodobně dojde k poklesu vývozu elektřiny až na nulu nebo dokonce mírný dovoz. V závislosti na podobě regionálního trhu s elektřinou bude možné případnou chybějící kapacitu doplnit plynovými nebo obnovitelnými zdroji.“
 
-V současné době navíc Česko elektřiny vyrábí nadbytek, téměř pětinu energie vyveze.
+V současné době Česko vyváží téměř pětinu vyrobené elektřiny.
 
 Další potíž nastane v roce 2035, kdy s největší pravděpodobností doslouží Dukovany. A právě k tomuhle datu požaduje energetická koncepce spuštění nových reaktorů, které by je dokázaly přinejmenším nahradit.
 
@@ -124,9 +122,13 @@ _Zdroj: [CarbonBrief](https://www.carbonbrief.org/mapped-the-worlds-nuclear-powe
 
 Prvnímu výkopu navíc předchází ještě licenční proces a hledání investora, takže celkem proces obvykle zabere 15 až 25 let. Demokratické země navíc řeší řadu problémů, které autokracie nemusejí: mají větší potíže se sháněním investičního kapitálu, obhájení ekonomické návratnosti projektu, dodržením pravidel pro veřejné zakázky, přísnými bezpečnostními opatřeními nebo veřejnou kontrolou.
 
-„U většiny lidských činností je učící křivka taková, že každý další kus je lepší nebo levnější,“ vysvětluje Osička. „U jádra je tomu kvůli neexistenci _economies of scale_ (česky _úspory z rozsahu_, pozn. red.) a stále přísnějším bezpečnostním regulacím naopak. Každý další reaktor je dražší.“
+„Jednou z obecných charakteristik průmyslové aktivity jsou úspory z rozsahu: více vyrobených kusů znamená poměrově nižší náklady na výrobu jednoho z nich,“ vysvětluje Osička. „U jádra se ale nepodařilo vybudovat dostatečně rozsáhlý průmysl, abychom úspor z rozsahu mohli využít. Naopak, stále přísnější bezpečnostní regulace znamenají, že každý další kus je dražší.“
 
 Vychází přitom ze [studie](https://www.researchgate.net/figure/Overnight-Construction-Cost-of-US-Nuclear-Power-Reactors-by-Construction-Start-Date_fig8_292964046), která srovnává náklady na stavbu atomových elektráren ve Spojených státech před havárií v Three Mile Island a po ní.
+
+<div><img src="https://dev.datarozhlas.cz/jadro-love/fotky/clanek/delka-naklady.png" style="max-width: 100%"></div>
+
+_Náklady a konstrukce amerických jaderných reaktorů před nehodou v elektrárně Three Mile Island (modře) a po ní (červeně). Zdroj: studie [Historical construction costs of global nuclear power reactors](https://www.researchgate.net/publication/292964046_Historical_construction_costs_of_global_nuclear_power_reactors)_
 
 Těžkosti demokratického rozhodování o jádru ilustruje čtyřicet let stará příhoda ze střední Evropy. Figuruje v ní Rakousko, dnešní odpůrce atomové energie. Země v roce 1978 dostavěla reaktor Zwentendorf, ale nikdy jej nezprovoznila. Pod tlakem veřejnosti vláda vyhlásila referendum, ve kterém 50,47 procenta Rakušanů hlasovalo proti spuštění. Projekt za 1,4 miliardy dnešních eur (35 miliard korun) tak rakouská vláda musela dát k ledu.
 
@@ -138,27 +140,25 @@ Těžkosti demokratického rozhodování o jádru ilustruje čtyřicet let star�
 
 Současné nízké ceny elektřiny jsou podle Osičky anomální situace. Přebytek výrobní kapacity elektráren nad spotřebou, který je hlavní příčinou levné elektřiny, je jen dočasný.
 
-„Pro uhelné zdroje totiž platí společná evropská pravidla,“ [vysvětluje důvody](http://oenergetice.cz/energetika-v-cr/mozne-scenare-rizika-vyvoje-elektroenergetiky-cesku/) Vladimír Wagner z Ústavu jaderné fyziky Akademie věd. „V Německu dojde k uzavření všech jaderných elektráren a také řady uhelných zdrojů. Uhelné zdroje se odstavily nebo se vyřadí i v celé řadě dalších evropských zemí.“
+„Situace by neznamenala příliš velký problém, kdyby podobný proces neproběhl v té době i u našich sousedů,“ [popisuje budoucí pokles kapacity](http://oenergetice.cz/energetika-v-cr/mozne-scenare-rizika-vyvoje-elektroenergetiky-cesku/) Vladimír Wagner z Ústavu jaderné fyziky Akademie věd. „V Německu dojde k uzavření všech jaderných elektráren a také řady uhelných zdrojů. Uhelné zdroje se odstavily nebo se vyřadí i v celé řadě dalších evropských zemí.“
 
 „Všude po Evropě panovalo v posledních letech období útlumu výstavby zdrojů jiných, než obnovitelných, závislých na počasí,“ dodává Wagner. „Po roce 2022 tak sice budou přebytky produkce v době, kdy intenzivně fouká a svítí, ale pravděpodobně bude problém dovézt elektřinu například v době zimní inverze, kdy bude v Evropě vysoká spotřeba elektřiny a nebude foukat a svítit.“
 
 A právě v tom, jak reagovat na snížení kapacity, se experti neshodnou.
 
-„Český trh není regulovaný státem, takže jakmile klesne kapacita a vyroste cena, soukromí investoři začnou stavět kapitálově nenáročné projekty, pravděpodobně hlavně plynové elektrárny,“ tvrdí Jan Osička.
+„České velkoobchodní ceny elektřiny jsou určované trhem, takže jakmile klesne kapacita a vyroste cena, soukromí investoři začnou stavět nové zdroje,“ tvrdí Jan Osička. „Podstatné přitom pro ně bude zejména to, do jaké míry se tyto zdroje budou schopné uplatnit na trhu, kde bude cena silně kolísat v závislosti na počasí a tedy dostupnosti elektřiny z obnovitelných zdrojů. O budoucí výrobní struktuře tak bude rozhodovat zejména flexibilita výroby, a tu nabízejí zejména plynové elektrárny.“
 
 „Plyn posiluje závislost na Rusku,“ brání se téhle variantě Radek Škoda ze strojní fakulty ČVUT. Doporučuje naopak jádro. „Je čisté, levné a na rozdíl od obnovitelných zdrojů i řiditelné. Při plánované životnosti je oproti jiným alternativám i levnější.“
 
-Jenže závislost na Rusku může způsobovat i stavba reaktoru. Tu dokáže postavit jen několik společností a jen některé mohou stavět v Česku.
-
-„Westinghouse je bankrot, Areva také,“ řekl týdeníku Respekt odpůrce jádra Mycle Schneider. „Číňané ani Korejci nemají k dispozici takový typ technologie, který by měl v Evropě licenci. Takže v podstatě v tuto chvíli nezbývá nikdo jiný než Rusové.“
+Podle Osičky je ale vnímání dovozu plynu z Ruska coby bezpečnostní hrozby do značné míry mýtus: „Česká republika vykazuje zdaleka nejlepší hodnoty bezpečnosti dodávek zemního plynu v celé Evropě. Domácí zásobníky pojmou i třetinu roční spotřeby. Navíc, země v roce 2009, kdy byly na 13 dní zastaveny dodávky plynu do Evropy přes Ukrajinu, prošla skutečným zátěžovým testem a jako jedna z mála v regionu to zvládla bez jakéhokoliv omezování spotřeby nebo ekonomických ztrát.“
 
 ## Obnovitelné zdroje mění trh. Jádro na něm může mít problém
 
-Rozhodnutí o orientaci české energetiky musejí počítat také s rozvojem obnovitelných zdrojů v Německu. Oba trhy jsou úzce propojené, ten německý je přitom osmkrát větší. Vývoj cen elektřiny v Česku se tak řídí gravitací Německa. [Podle studie o české energetické bezpečnosti](https://www.muni.cz/vyzkum/publikace/1376861) změny cen energie na obou trzích silně korelují.
+Rozhodnutí o orientaci české energetiky musejí počítat také s rozvojem obnovitelných zdrojů v Německu. Oba trhy jsou úzce propojené, ten německý je přitom osmkrát větší. Vývoj cen elektřiny v Česku se tak řídí gravitací Německa. [Podle studie o české energetické bezpečnosti](https://www.muni.cz/vyzkum/publikace/1376861) se ceny české elektřiny utvářejí v Německu.
 
-Německou _energiewende_ doprovází rychlý rozvoj energetických technologií. Část z nich se snaží odstranit hlavní nevýhodu slunečních a větrných elektráren – závislost na počasí. Rozvoj akumulátorů má umožnit skladování velkého množství energie, rozvoj chytrých sítí, které umožní zpětnou vazbu, zase zvýšit efektivitu výroby elektřiny. Ta se zároveň decentralizuje, roste podíl elektřiny z malých zdrojů.
+Německou _Energiewende_ doprovází rychlý rozvoj energetických technologií. Část z nich se snaží odstranit hlavní nevýhodu slunečních a větrných elektráren – závislost na počasí. Rozvoj akumulátorů má umožnit skladování velkého množství energie, rozvoj chytrých sítí, které umožní zpětnou vazbu, zase zvýšit efektivitu výroby elektřiny. Ta se zároveň decentralizuje, roste podíl elektřiny z malých zdrojů.
 
-Mění se i rychlost obchodování: dříve se energie obchodovala v dlouhých, například půldenních blocích. Obnovitelné zdroje podporují obchod v krátkých úsecích, v současnosti i čtvrthodinách. Její cena se mění například na základě krátkodobé předpovědi počasí. Jaderné energetice vyhovují dlouhé bloky a pomalé obchodování.
+Mění se i rychlost obchodování: dříve se elektřina obchodovala v hodinových blocích. Pro obnovitelné zdroje jsou ale vhodnější kratší obchodní intervaly,  například v Německu se dnes obchoduje ve čtvrthodinách. Mezi jednotlivými intervaly přitom mohou být v závislosti na počasí velké cenové rozdíly, přičemž ceny mohou dosahovat i záporných hodnot. Cenová volatilita přitom jaderné energetice ekonomicky nevyhovuje. Pro provoz jaderných elektráren, jejichž výkon není příliš flexibilní, je mnohem vhodnější stabilnější cenová hladina.
 
 „Nový reaktor by vstoupil na tenhle proměněný trh,“ předpovídá Osička. „Je to obrovské riziko: netušíme, jak ten trh bude vypadat. S jadernou energetikou pravděpodobně nebude příliš kompatibilní.“
 
