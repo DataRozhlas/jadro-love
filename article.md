@@ -19,10 +19,10 @@ Babišova vláda nyní znovu [hledá cesty](https://www.respekt.cz/spolecnost/ba
 
 To ovšem odmítají jeho menšinoví akcionáři, kvůli riziku ekonomického fiaska dokonce pohrozili managementu žalobou. Vláda tak zvažuje rozdělení ČEZu na „čistou“ část s obnovitelnými zdroji a „špinavý“ uhelný a jaderný ČEZ, kde by měl stát stoprocentní podíl. Rozdělení by státu umožnilo investovat do jádra. Rozhodnout se má podle ministra průmyslu Tomáše Hünera ještě na jaře.
 
-Data Mezinárodní agentury pro atomovou energii ukazují, že hledání investora nejspíš nebude snadné. V Evropě a Spojených státech je jaderná energetika na ústupu, investice do stavby reaktoru jsou v téhle části světa v posledních desetiletích vzácné.
+Data Mezinárodní agentury pro atomovou energii ukazují, že hledání investora nejspíš nebude snadné. V Evropě a Spojených státech je jaderná energetika na ústupu, investice do stavby reaktoru jsou v této části světa v posledních desetiletích vzácné.
 
 ## Kdy se stavěly a odstavovaly jaderné reaktory
-_Zelená značí začátek stavby, oranžovaná plánovanou stavbu, červená odstavení reaktoru. Velikost kruhu udává výkon reaktoru._
+_Zelená značí začátek stavby, oranžová plánovanou stavbu, červená odstavení reaktoru. Velikost kruhu udává výkon reaktoru._
 
 <wide>
 	<div id="sel">
@@ -42,7 +42,7 @@ _Plánované reaktory jsou v mapě pouze v případě, že je známé datum zač
 
 Západní svět zažíval boom jaderné energetiky v šedesátých a sedmdesátých letech dvacátého století. V té době Spojené státy a země západní Evropy rozestavěly téměř tři stovky civilních reaktorů. Po havárii v Černobylu se ale rozvoj mírového využití jádra téměř zastavil: v devadesátých letech se mezi západními zeměmi pustila do stavby reaktoru pouze Francie. V následujícím desetiletí rozestavělo po jednom nukleárním bloku Finsko (2005), Francie (2007) a Slovensko (2009). Všechny tři jsou zatím nedostavěné.
 
-Dnes prožívá atomovou horečku, srovnatelnou s šedesátými léty na Západě, Asie. Mezi velmocemi jaderné energetiky – Ruskem, Indií, Jižní Koreou a Čínou – začíná ta poslední dominovat. V současnosti má v provozu čtyři desítky reaktorů a staví nebo se chystá stavět dalších sedmdesát jaderných bloků.
+Dnes prožívá atomovou horečku srovnatelnou s šedesátými lety na Západě Asie. Mezi velmocemi jaderné energetiky – Ruskem, Indií, Jižní Koreou a Čínou – začíná ta poslední dominovat. V současnosti má v provozu čtyři desítky reaktorů a staví nebo se chystá stavět dalších sedmdesát jaderných bloků.
 
 „Jaderné elektrárny dnes staví převážně státy, které se rychle industrializují, mají dostatek kapitálu a jejich elektroenergetika zvládne spuštění takto velkého zdroje energie,“ vysvětluje Jan Osička z Mezinárodního politologického ústavu Masarykovy univerzity.
 
@@ -72,7 +72,7 @@ Podle odpůrce jádra Mycle Schneidera se orientace na obnovitelné zdroje vypla
 
 „Vedle toho máte solární zdroje, kde se investoři spokojí i s 20 dolary za megawatthodinu. Pravda, to se týká velkých parků v arabské poušti, ale tyto náklady rok od roku klesají. V USA už se dostávají pod 35 dolarů, tedy pod úroveň, o níž jsem mluvil u existujících jaderných bloků, které tím pádem už ztrácejí konkurenceschopnost,“ dodává Schneider.
 
-Reakce na havárie a ekonomické komplikace je vidět také na podílu jádra na celosvětové produkci elektřiny. Jádro bylo na vrcholu polovině devadesátých let – v době, kdy se do sítě připojily jaderné elektrárny rozestavěné před Černobylem a většina reaktorů byla ve středních letech. Tehdy z jádra pocházela téměř pětina celosvětové produkce. Od té doby jeho podíl vytrvale klesá.
+Reakce na havárie a ekonomické komplikace je vidět také na podílu jádra na celosvětové produkci elektřiny. Jádro bylo na vrcholu v polovině devadesátých let – v době, kdy se do sítě připojily jaderné elektrárny rozestavěné před Černobylem, kdy většina reaktorů byla ve středních letech. Tehdy z jádra pocházela téměř pětina celosvětové produkce. Od té doby jeho podíl vytrvale klesá.
 
 <wide>
 	<div><img src="https://dev.datarozhlas.cz/jadro-love/fotky/clanek/podil-jadra.jpg" style="max-width: 100%"></div>
@@ -82,9 +82,9 @@ _Zdroj: [CarbonBrief](https://www.carbonbrief.org/mapped-the-worlds-nuclear-powe
 
 ## Francie, Spojené státy, Spojené království: napodobí Německo?
 
-Podobné rozhodnutí jako Německo čeká řadu dalších zemí. Především ty, které se v šedesátých a sedmdesátých letech spolehly na jádro. Při obvyklé padesátileté životnosti reaktoru to znamená, že teď začínají dosluhovat a musejí přemýšlet, jak získávat elektřinu v dalších desetiletích.
+Podobné rozhodnutí jako Německo čeká řadu dalších zemí. Především ty, které se v šedesátých a sedmdesátých letech spolehly na jádro. Při obvyklé padesátileté životnosti reaktoru to znamená, že teď začínají dosluhovat a je nutné přemýšlet, jak získávat elektřinu v dalších desetiletích.
 
-Celosvětově největší a také nejstarší jaderný park mají Spojené státy. Francie zase z jádra donedávna získávala tři čtvrtiny vyrobené elektřiny. Jenže právě Francie v minulých letech odstavila velkou část své atomové kapacity a s výjimkou problematického Flamanville nestaví nové.
+Celosvětově největší a také nejstarší jaderný park mají Spojené státy. Francie zase z jádra donedávna získávala tři čtvrtiny vyrobené elektřiny. Jenže právě Francie v minulých letech odstavila velkou část své atomové kapacity a s výjimkou problematického francouzského Flamanville (viz níže) nestaví nové.
 
 „Ve srovnání s tím německým je francouzský jaderný průmysl více podporován veřejností a žije v mnohem větší symbióze se státními orgány. Německou cestu tak Francouzi zvolí pravděpodobně až v okamžiku, kdy to bude finančně nebo politicky výhodné,“ upozorňuje Jan Osička.
 
@@ -98,7 +98,7 @@ Zmíněná Areva po havárii ve Fukušimě přerušila práce na rozestavěných
 
 Podobné rozhodnutí čeká také Česko. Nejprve bude muset zavřít část uhelných elektráren, které nesplňují ekologické cíle Evropské unie.
 
-„Zavřené uhelné elektrárny nám jádro nahradit nepomůže, na to přijde příliš pozdě,“ říká Jan Osička z Mezinárodního politologického ústavu Masarykovy univerzity. „V tomhle období pravděpodobně dojde k poklesu vývozu elektřiny až na nulu nebo dokonce mírný dovoz. V závislosti na podobě regionálního trhu s elektřinou bude možné případnou chybějící kapacitu doplnit plynovými nebo obnovitelnými zdroji.“
+„Zavřené uhelné elektrárny nám jádro nahradit nepomůže, na to přijde příliš pozdě,“ říká Jan Osička z Mezinárodního politologického ústavu Masarykovy univerzity. „V tomhle období pravděpodobně dojde k poklesu vývozu elektřiny až na nulu, nebo dokonce mírný dovoz. V závislosti na podobě regionálního trhu s elektřinou bude možné případnou chybějící kapacitu doplnit plynovými nebo obnovitelnými zdroji.“
 
 V současné době Česko vyváží téměř pětinu vyrobené elektřiny.
 
@@ -106,7 +106,7 @@ Další potíž nastane v roce 2035, kdy s největší pravděpodobností doslou
 
 Pokud ovšem mají nové bloky skutečně dodávat elektřinu „už“ za sedmnáct let, je třeba začít je připravovat co nejdříve. Celý proces – od počátku schvalování po zapojení do sítě – totiž běžně zabere dvě desetiletí. Příklady tří evropských zemí ukazují, že v posledních letech se navíc podstatně prodlužují.
 
-Třetí blok severofrancouzské elektrárny Flamanville se začal stavět v roce 2007, dokončený měl být o pět let později a stát měl 3,3 miliardy eur. Po sérii komplikací a výrobních vad bylo spuštění několikrát odloženo. Aktuální termín je konec roku 2018, cena vyrostla na 10,5 miliardy eur.
+Třetí blok severofrancouzské elektrárny Flamanville se začal stavět v roce 2007, dokončen měl být o pět let později a stát měl 3,3 miliardy eur. Po sérii komplikací a výrobních vad bylo spuštění několikrát odloženo. Aktuální termín je konec roku 2018, cena vyrostla na 10,5 miliardy eur.
 
 Také u finské elektrárny Olkiluoto se náklady zvedly trojnásobně. Třikrát se protáhla i stavba, z pěti na současných čtrnáct let, a na spuštění se stále čeká.
 
@@ -142,13 +142,13 @@ Současné nízké ceny elektřiny jsou podle Osičky anomální situace. Přeby
 
 „Situace by neznamenala příliš velký problém, kdyby podobný proces neproběhl v té době i u našich sousedů,“ [popisuje budoucí pokles kapacity](http://oenergetice.cz/energetika-v-cr/mozne-scenare-rizika-vyvoje-elektroenergetiky-cesku/) Vladimír Wagner z Ústavu jaderné fyziky Akademie věd. „V Německu dojde k uzavření všech jaderných elektráren a také řady uhelných zdrojů. Uhelné zdroje se odstavily nebo se vyřadí i v celé řadě dalších evropských zemí.“
 
-„Všude po Evropě panovalo v posledních letech období útlumu výstavby zdrojů jiných, než obnovitelných, závislých na počasí,“ dodává Wagner. „Po roce 2022 tak sice budou přebytky produkce v době, kdy intenzivně fouká a svítí, ale pravděpodobně bude problém dovézt elektřinu například v době zimní inverze, kdy bude v Evropě vysoká spotřeba elektřiny a nebude foukat a svítit.“
+„Všude po Evropě panovalo v posledních letech období útlumu výstavby zdrojů jiných než obnovitelných, závislých na počasí,“ dodává Wagner. „Po roce 2022 tak sice budou přebytky produkce v době, kdy intenzivně fouká a svítí, ale pravděpodobně bude problém dovézt elektřinu například v době zimní inverze, kdy bude v Evropě vysoká spotřeba elektřiny a nebude foukat a svítit.“
 
 A právě v tom, jak reagovat na snížení kapacity, se experti neshodnou.
 
-„České velkoobchodní ceny elektřiny jsou určované trhem, takže jakmile klesne kapacita a vyroste cena, soukromí investoři začnou stavět nové zdroje,“ tvrdí Jan Osička. „Podstatné přitom pro ně bude zejména to, do jaké míry se tyto zdroje budou schopné uplatnit na trhu, kde bude cena silně kolísat v závislosti na počasí a tedy dostupnosti elektřiny z obnovitelných zdrojů. O budoucí výrobní struktuře tak bude rozhodovat zejména flexibilita výroby, a tu nabízejí zejména plynové elektrárny.“
+„České velkoobchodní ceny elektřiny jsou určované trhem, takže jakmile klesne kapacita a vyroste cena, soukromí investoři začnou stavět nové zdroje,“ tvrdí Jan Osička. „Podstatné přitom pro ně bude zejména to, do jaké míry tyto zdroje budou schopné uplatnit se na trhu, kde bude cena silně kolísat v závislosti na počasí a tedy dostupnosti elektřiny z obnovitelných zdrojů. O budoucí výrobní struktuře tak bude rozhodovat zejména flexibilita výroby, a tu nabízejí zejména plynové elektrárny.“
 
-„Plyn posiluje závislost na Rusku,“ brání se téhle variantě Radek Škoda ze strojní fakulty ČVUT. Doporučuje naopak jádro. „Je čisté, levné a na rozdíl od obnovitelných zdrojů i řiditelné. Při plánované životnosti je oproti jiným alternativám i levnější.“
+„Plyn posiluje závislost na Rusku,“ brání se této variantě Radek Škoda ze strojní fakulty ČVUT. Doporučuje naopak jádro. „Je čisté, levné a na rozdíl od obnovitelných zdrojů i řiditelné. Při plánované životnosti je oproti jiným alternativám i levnější.“
 
 Podle Osičky je ale vnímání dovozu plynu z Ruska coby bezpečnostní hrozby do značné míry mýtus: „Česká republika vykazuje zdaleka nejlepší hodnoty bezpečnosti dodávek zemního plynu v celé Evropě. Domácí zásobníky pojmou i třetinu roční spotřeby. Navíc, země v roce 2009, kdy byly na 13 dní zastaveny dodávky plynu do Evropy přes Ukrajinu, prošla skutečným zátěžovým testem a jako jedna z mála v regionu to zvládla bez jakéhokoliv omezování spotřeby nebo ekonomických ztrát.“
 
@@ -166,6 +166,6 @@ Mění se i rychlost obchodování: dříve se elektřina obchodovala v hodinov�
 
 Okopírovat německý model podle Vladimíra Wagnera nestačí. „Česká republika má relativně velmi omezené možnosti pro všechny nízkoemisní zdroje, kromě jádra. Jak ve větru, slunci, biomase i vodě jde u každého z nich vždy jen o potenciál několika procent požadované produkce elektřiny. Celkově tak těžko dosáhnou i jen poloviny potřeb. Pokud by Česká republika chtěla relativně rychle nahradit fosilní zdroje a intenzivně přispět k nízkým emisím v Evropě, musela by postavit několik nových jaderných bloků.“
 
-„Pokud bychom využili našich zkušeností a tradice v oblasti jaderné energetiky pro její rozšíření například v Polsku, mohli bychom velmi významně přispět ke snížení emisí v regionu,“ dodává Wagner.“
+„Pokud bychom využili našich zkušeností a tradice v oblasti jaderné energetiky pro její rozšíření například v Polsku, mohli bychom velmi významně přispět ke snížení emisí v regionu,“ dodává Wagner.
 
 Šance, že se skutečně podaří nové jaderné bloky v Česku postavit, je podle Škody spojená s osobou, která výsledek garantuje. „Pokud vláda jmenuje ministra, který bude za stavbu elektrárny přímo odpovědný, tak věřím, že se stavět bude. Různé výbory a zmocněnci v posledních deseti letech se ukázali jako marnost nad marnost.“
