@@ -132,7 +132,7 @@ _Náklady a konstrukce amerických jaderných reaktorů před nehodou v elektrá
 
 Těžkosti demokratického rozhodování o jádru ilustruje čtyřicet let stará příhoda ze střední Evropy. Figuruje v ní Rakousko, dnešní odpůrce atomové energie. Země v roce 1978 dostavěla reaktor Zwentendorf, ale nikdy jej nezprovoznila. Pod tlakem veřejnosti vláda vyhlásila referendum, ve kterém 50,47 procenta Rakušanů hlasovalo proti spuštění. Projekt za 1,4 miliardy dnešních eur (35 miliard korun) tak rakouská vláda musela dát k ledu.
 
-## Jádro nebo plyn? Experti se neshodnou
+## Jádro, nebo plyn? Experti se neshodnou
 
 „Pokud budeme hledat ekonomickou návratnost, tak se v Evropě ani u nás v současnosti nevyplatí stavět jakýkoliv zdroj, a to nejen jaderný,“ prohlásil loni ředitel jaderné divize ČEZu Bohdan Zronek.
 
